@@ -1,0 +1,191 @@
+
+
+.side5 {
+  position: absolute;
+  height: 360px;
+  width: 100vh;
+  bottom: -1px;
+  left: 385px;
+  padding: 0;
+  border-top-left-radius: 60px;
+  border-bottom-left-radius: 40px;
+  box-shadow: -2px 0px 30px 5px rgba(0, 0, 0, 0.749);
+  background-color: whitesmoke;
+  transition: 1.5s;
+}
+
+.side6 {
+  position: absolute;
+  height: 360px;
+  width: 295px;
+  bottom: -1px;
+  left: 0px;
+  border-top-right-radius: 60px;
+  border-bottom-right-radius: 40px;
+  box-shadow: 2px 0px 30px 5px rgba(0, 0, 0, 0.749);
+  background-color: whitesmoke;
+  transition: 1.5s;
+}
+
+.Pro5 {
+  position: absolute;
+  height: 305px;
+  width: 220px;
+  top: 30px;
+  left: 230px;
+  filter: drop-shadow(0px 0px 10px black);
+  transition: 1.5s;
+}
+
+.info5 {
+  position: absolute;
+  height: 305px;
+  width: auto;
+  top: 10px;
+  left: 200px;
+  transition: 1.5s;
+}
+
+.Name5 {
+  width: auto;
+  font-size: 35px;
+  font-family: Palation Linotpe;
+  border-bottom: 1px solid black;
+}
+
+.Brand5 {
+  font-size: 25px;
+  font-family: Dubai Medium;
+}
+
+.Price5 { 
+  font-size: 25px;
+  font-family: Dubai Medium;
+}
+
+.Model5 { 
+  margin-left: 10px;
+  font-size: 25px;
+  font-family: Dubai Medium;
+}
+
+.Simg5 {
+  position: absolute;
+  width: 130px;
+  height: 137px;
+  top: 105px;
+  left: 50px;
+  border-radius: 20px;
+  border: solid black 1px;
+}
+
+.imgs5 {
+  width: 100px;
+  height: 135px;
+  margin-left: 17px;
+  display: none;
+}
+
+.imgs6 {
+  width: 100px;
+  height: 135px;
+  margin-left: 17px;      
+}
+
+.close5 {
+  position: relative;
+  top: 70px;
+  right: 140px;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: gainsboro;
+  border-color: gainsboro;
+}
+
+.About5 {
+  position: absolute;
+  height: 305px;
+  width: 500px;
+  top: 370px;
+  left: 150px;
+  overflow: hidden;
+  overflow-y: scroll;
+  transition: 1.5s;
+}
+
+.AboutProduct5 {
+  position: relative;
+  top: 65px;
+  right: 70px;
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: gainsboro;
+  border-color: gainsboro;
+}
+
+.back5 {
+  position: relative;
+  top: 15px;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: gainsboro;
+  border-color: black;
+}
+
+.buy5 {
+  position: relative;
+  width: 100px;
+  height: 40px;
+  top: 65px;
+  right: 140px;
+  border-radius: 10px;
+  background-color: greenyellow;
+  border-color: black;
+}
+
+.form5 {
+  position: absolute;
+  width: 500px;
+  height: 270px;
+  padding: 30px;
+  margin: 20px;
+  background-color: whitesmoke;
+  box-shadow: gray 0px 0px 50px 5px;
+  display: none;
+}
+
+.input5 {
+  width: 300px;
+  height: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+}
+
+.btns {
+  display: flex;
+  justify-content: baseline;
+  gap: 220px;
+  margin-top: 20px;
+}
+
+.cansel5 {
+  display: inline;
+  justify-content: space-around;
+  gap: 10px;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: gainsboro;
+  border-color: gainsboro;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #333;
+}

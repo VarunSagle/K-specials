@@ -1,0 +1,225 @@
+@media screen and (max-width: 992px)
+{
+ #filters {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns on small screens */
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    height: 180px;
+    margin-top: -0px;
+    margin-left: -20px;
+    z-index: 1;
+  }
+#label{
+ position: relative;
+ bottom: 40px;
+}
+#navbar{
+  width: 900px;
+}
+#search{
+  width: 450px;
+}
+#login-icon{
+  margin-left: -70px;
+}
+#buy1,#buy3,#buy5,#buy7,#buy9{
+display: none;
+}
+#AboutProduct1,#AboutProduct3,#AboutProduct5,#AboutProduct7,#AboutProduct9{
+  width: 150px;
+  top: 80px ;
+  left: -50px;
+}
+ #h3{
+  position: relative;
+  left: 250px;
+  bottom: 20px;
+}
+
+ #h1{
+  position: relative;
+  top: 170px;
+  left: -150px;
+  width: 580px;
+  font-size: 30px;
+}
+#Continer1,#Continer3,#Continer5,#Continer7,#Continer9{
+  position: relative;
+  top: 170px;
+  left: 0px;
+  width: 125vh;
+}
+#side1,#side3,#side5,#side7,#side9{
+  position: absolute;
+   left: 225px;
+}
+#side2,#side4,#side6,#side8,#side10{
+   width: 135px ; 
+}
+#Pro1,#Pro3,#Pro5,#Pro7,#Pro9{ 
+  left: 75px;
+}
+
+}
+
+
+
+
+@media screen and (max-width: 768px)
+{
+ #filters {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns on small screens */
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    height: 180px;
+    margin-top: -0px;
+    margin-left: -20px;
+    z-index: 1;
+  }
+#label{
+ position: relative;
+ bottom: 40px;
+}
+#navbar{
+  width: 690px;
+}
+#search{
+  width: 400px;
+}
+#login-icon{
+  margin-left: -30px;
+}
+#buy1,#buy3,#buy5,#buy7,#buy9{
+display: none;
+}
+#AboutProduct1,#AboutProduct3,#AboutProduct5,#AboutProduct7,#AboutProduct9{
+  width: 150px;
+  top: 80px ;
+  left: -50px;
+}
+ #h3{
+  position: relative;
+  left: 250px;
+  bottom: 20px;
+}
+
+ #h1{
+  position: relative;
+  top: 170px;
+  left: -260px;
+  width: 580px;
+  font-size: 30px;
+}
+#About1,#About3,#About5,#About7,#About9{
+  width: 400px ;
+  margin-left: -60px;
+}
+#info1,#info3,#info5,#info7,#info9{
+  margin-left: -120px;
+}
+#Pro1,#Pro3,#Pro5,#Pro7,#Pro9{
+  position: absolute;
+  margin-left: -35px;
+}
+#Continer1,#Continer3,#Continer5,#Continer7,#Continer9{
+  position: relative;
+  top: 170px;
+  left: 0px;
+  width: 97vh;
+}
+#side1,#side3,#side5,#side7,#side9{
+  position: absolute;
+   left: 188px;
+}
+#side2,#side4,#side6,#side8,#side10{
+   width: 100px ; 
+}
+#Pro1,#Pro3,#Pro5,#Pro7,#Pro9{ 
+  left: 75px;
+}
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+ #filters {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns on small screens */
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    height: 180px;
+    margin-top: -0px;
+    margin-left: -20px;
+    z-index: 1;
+  }
+#label{
+ position: relative;
+ bottom: 40px;
+}
+#navbar{
+  width: 350px;
+}
+#search{
+display: none;}
+#login-icon{
+  margin-left: -30px;
+}
+#info1,#info3,#info5,#info7,#info9{
+  width: 310px;  
+  margin-left: 0px;
+}
+#About1,#About3,#About5,#About7,#About9{
+  width: 400px ;
+  margin-left: -0px;
+}
+
+#AboutProduct1,#AboutProduct3,#AboutProduct5,#AboutProduct7,#AboutProduct9{
+  position: absolute;
+  margin-top: 278px;
+  margin-left:0px;  
+}
+#buy1,#buy3,#buy5,#buy7,#buy9{
+  position: absolute;
+  width: 100px;
+  top: 298px ;
+  left: 0px;
+}
+ #h3{
+  position: relative;
+  left: 100px;
+  bottom: 20px;
+}
+
+ #h1{
+  position: relative;
+  top: 170px;
+  left: -340px;
+  width: 380px;
+  font-size: 30px;
+}
+#Continer1,#Continer3,#Continer5,#Continer7,#Continer9{
+  position: relative;
+  top: 170px;
+  left: 0px;
+  width: 330px;
+}
+#side1,#side3,#side5,#side7,#side9{
+  position: absolute;
+   left: 225px;
+}
+#side2,#side4,#side6,#side8,#side10{
+   width: 135px ; 
+}
+#Pro1,#Pro3,#Pro5,#Pro7,#Pro9{ 
+  left: 110px;
+}
+}

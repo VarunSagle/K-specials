@@ -1,0 +1,130 @@
+.side1{
+position: absolute;
+height: 360px;
+width: 100vh;
+bottom: -1px;
+left: 385px;
+padding: 0;
+border-top-left-radius: 60px;
+border-bottom-left-radius: 40px;
+box-shadow: -2px 0px 30px 5px rgba(0, 0, 0, 0.749);
+background-color:whitesmoke;
+transition: 1.5s;
+}
+
+
+.side2{
+position: absolute;
+height: 360px;
+width: 295px ;
+bottom: -1px;
+left: 0px;
+border-top-right-radius: 60px;
+border-bottom-right-radius: 40px;
+box-shadow: 2px 0px 30px 5px rgba(0, 0, 0, 0.749);
+background-color:whitesmoke;
+ transition: 1.5s;
+}
+
+
+.Pro1{
+position: absolute;
+height: 305px;
+width: 220px;
+top: 30px;
+left: 235px;
+filter: drop-shadow(0px 0px 10px black);
+ transition: 1.5s;
+}
+
+
+.info1{
+    position: absolute;
+    height: 305px;
+    width:auto;
+    top: 10px;
+    left: 200px;
+    transition: 1.5s;
+
+
+}
+
+.Name1{
+    /* text-align: center; */
+    width: auto;
+    font-size: 35px;
+    font-family: Palation Linotpe;
+    border-bottom: 1px solid black;
+}
+
+.Brand1{
+    font-size: 25px;
+    font-family: Dubai Medium;
+}
+
+.Model1{ 
+    margin-left: 10px;
+    font-size: 25px;
+    font-family: Dubai Medium;
+}
+.Price1{ 
+    font-size: 25px;
+    font-family: Dubai Medium;
+}
+
+.buy{
+  position: relative;
+  width: 100px;
+  height: 40px;
+  top: 65px;
+  right: 140px;
+  border-radius: 10px;
+  background-color: greenyellow;
+  border-color: black;
+}
+
+.About1{
+    position: absolute;
+    height: 305px;
+    width: 500px;
+    top: 370px;
+    left: 150px;
+    overflow: hidden;
+    overflow-y: scroll;
+    transition: 1.5s;
+}
+
+.AboutProduct1{
+
+    position: relative;
+        top: 65px;
+        right: 70px;
+        width: 150px;
+        height: 40px;
+        border-radius: 10px;
+        background-color: gainsboro;
+        border-color: gainsboro;
+
+}
+
+.back1{
+
+    position: relative;
+        top: 15px;
+        width: 100px;
+        height: 40px;
+        border-radius: 10px;
+        background-color: gainsboro;
+        border-color: black;
+
+}
+
+
+
+    h2 {
+      text-align: center;
+      margin-bottom: 25px;
+      color: #333;
+    }
+
+    
